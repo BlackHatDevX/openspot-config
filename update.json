@@ -1,16 +1,21 @@
 {
-  "latest_version": "3.2.0",
-  "min_supported_version": "3.0.0",
-  "force_update": true,
+  "latest_version": "3.1.0",
+  "min_supported_version": "3.1.0",
+  "force_update": false,
   "changelog": {
-    "3.2.0": [
-      "Added some UI improvements",
-      "Fixed crash on startup",
-      "Improved performance"
+    "3.1.0": [
+      "Offline mode added",
+      "Sleep timer added",
+      "Repeat one option added",
+      "Notification control fixed",
+      "Player layout fixed (tablet & car)",
+      "Update system + changelog added",
+      "YouTube API (beta)",
+      "New language tr"
     ],
     "3.0.0": [
       "Initial public release"
     ]
   },
-  "release_url": "https://github.com/BlackHatDevX/openspot-music-app/releases"
+  "release_url": "https://github.com/BlackHatDevX/openspot-music-app/releases/tag/v3.1.0"
 }

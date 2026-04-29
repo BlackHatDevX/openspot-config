@@ -1,0 +1,16 @@
+{
+  "latest_version": "3.1.0",
+  "min_supported_version": "3.0.0",
+  "force_update": false,
+  "changelog": {
+    "3.1.0": [
+      "Added new UI improvements",
+      "Fixed crash on startup",
+      "Improved performance"
+    ],
+    "3.0.0": [
+      "Initial public release"
+    ]
+  },
+  "release_url": "https://github.com/BlackHatDevX/openspot-music-app/releases"
+}

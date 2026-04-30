@@ -1,8 +1,12 @@
 {
-  "latest_version": "3.1.0",
-  "min_supported_version": "3.1.0",
-  "force_update": false,
+  "latest_version": "3.1.2",
+  "min_supported_version": "3.1.2",
+  "force_update": true,
   "changelog": {
+    "3.1.2": [
+      "Fixed backend error",
+      "Fixed translations issue"
+    ],
     "3.1.0": [
       "Offline mode added",
       "Sleep timer added",
@@ -11,11 +15,11 @@
       "Player layout fixed (tablet & car)",
       "Update system + changelog added",
       "YouTube API (beta)",
-      "New language tr"
+      "New language: Turkish (tr)"
     ],
     "3.0.0": [
       "Initial public release"
     ]
   },
-  "release_url": "https://github.com/BlackHatDevX/openspot-music-app/releases/tag/v3.1.0"
+  "release_url": "https://github.com/BlackHatDevX/openspot-music-app/releases/download/v3.1.2/OpenSpot-3.1.2-release.apk"
 }

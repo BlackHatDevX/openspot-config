@@ -1,6 +1,6 @@
 {
   "ytmusic": {
-    "disabled": true
+    "disabled": false
   },
   "saavn": {
     "disabled": false

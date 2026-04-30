@@ -1,0 +1,20 @@
+{
+  "ytmusic_extra_apis": [
+    {
+      "name": "primary",
+      "url": "https://api1.example.com/ytmusic"
+    },
+    {
+      "name": "backup_1",
+      "url": "https://api2.example.com/ytmusic"
+    },
+    {
+      "name": "backup_2",
+      "url": "https://api3.example.com/ytmusic"
+    },
+    {
+      "name": "backup_3",
+      "url": "https://api4.example.com/ytmusic"
+    }
+  ]
+}

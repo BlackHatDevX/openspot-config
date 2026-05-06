@@ -1,8 +1,120 @@
 {
   "ytmusic_extra_apis": [
     {
-      "name": "backup1",
-      "url": "https://api1.example.com/ytmusic"
+      "name": "yewtu.be",
+      "url": "https://yewtu.be"
+    },
+    {
+      "name": "inv.tux.pizza",
+      "url": "https://inv.tux.pizza"
+    },
+    {
+      "name": "invidious.tiekoetter.com",
+      "url": "https://invidious.tiekoetter.com"
+    },
+    {
+      "name": "invidious.f5.si",
+      "url": "https://invidious.f5.si"
+    },
+    {
+      "name": "invidious.sethforprivacy.com",
+      "url": "https://invidious.sethforprivacy.com"
+    },
+    {
+      "name": "invidious.osi.kr",
+      "url": "https://invidious.osi.kr"
+    },
+    {
+      "name": "invidious.projectsegfau.lt",
+      "url": "https://invidious.projectsegfau.lt"
+    },
+    {
+      "name": "invidious.privacy.dev",
+      "url": "https://invidious.privacy.dev"
+    },
+    {
+      "name": "inv.vern.cc",
+      "url": "https://inv.vern.cc"
+    },
+    {
+      "name": "invidious.weblibre.org",
+      "url": "https://invidious.weblibre.org"
+    },
+    {
+      "name": "invidious.snopyta.org",
+      "url": "https://invidious.snopyta.org"
+    },
+    {
+      "name": "invidious.kavin.rocks",
+      "url": "https://invidious.kavin.rocks"
+    },
+    {
+      "name": "invidious-admin.tk",
+      "url": "https://invidious-admin.tk"
+    },
+    {
+      "name": "inv.riverside.rocks",
+      "url": "https://inv.riverside.rocks"
+    },
+    {
+      "name": "invidious.nerdvpn.de",
+      "url": "https://invidious.nerdvpn.de"
+    },
+    {
+      "name": "inv.thepixora.com",
+      "url": "https://inv.thepixora.com"
+    },
+    {
+      "name": "yt.chocolatemoo53.com",
+      "url": "https://yt.chocolatemoo53.com"
+    },
+    {
+      "name": "inv.nadeko.net",
+      "url": "https://inv.nadeko.net"
+    },
+    {
+      "name": "inv1.nadeko.net",
+      "url": "https://inv1.nadeko.net"
+    },
+    {
+      "name": "inv2.nadeko.net",
+      "url": "https://inv2.nadeko.net"
+    },
+    {
+      "name": "inv3.nadeko.net",
+      "url": "https://inv3.nadeko.net"
+    },
+    {
+      "name": "inv4.nadeko.net",
+      "url": "https://inv4.nadeko.net"
+    },
+    {
+      "name": "inv5.nadeko.net",
+      "url": "https://inv5.nadeko.net"
+    },
+    {
+      "name": "inv6.nadeko.net",
+      "url": "https://inv6.nadeko.net"
+    },
+    {
+      "name": "inv7.nadeko.net",
+      "url": "https://inv7.nadeko.net"
+    },
+    {
+      "name": "inv8.nadeko.net",
+      "url": "https://inv8.nadeko.net"
+    },
+    {
+      "name": "inv9.nadeko.net",
+      "url": "https://inv9.nadeko.net"
+    },
+    {
+      "name": "inv-ygg.nadeko.net",
+      "url": "https://inv-ygg.nadeko.net"
+    },
+    {
+      "name": "bocchilorenzo.github.io",
+      "url": "https://bocchilorenzo.github.io/invuedious/"
     }
   ]
 }

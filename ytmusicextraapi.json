@@ -1,6 +1,10 @@
 {
   "ytmusic_extra_apis": [
     {
+      "name": "invidious.f5.si",
+      "url": "https://invidious.f5.si"
+    },
+    {
       "name": "bocchilorenzo.github.io/invuedious",
       "url": "https://bocchilorenzo.github.io/invuedious/"
     },
@@ -83,10 +87,6 @@
     {
       "name": "invidious.esmailelbob.xyz",
       "url": "https://invidious.esmailelbob.xyz"
-    },
-    {
-      "name": "invidious.f5.si",
-      "url": "https://invidious.f5.si"
     },
     {
       "name": "invidious.fdn.fr",

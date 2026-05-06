@@ -1,76 +1,40 @@
 {
   "ytmusic_extra_apis": [
     {
-      "name": "yewtu.be",
-      "url": "https://yewtu.be"
+      "name": "bocchilorenzo.github.io/invuedious",
+      "url": "https://bocchilorenzo.github.io/invuedious/"
     },
     {
-      "name": "inv.tux.pizza",
-      "url": "https://inv.tux.pizza"
+      "name": "inv.bp.projectsegfau.lt",
+      "url": "https://inv.bp.projectsegfau.lt"
     },
     {
-      "name": "invidious.tiekoetter.com",
-      "url": "https://invidious.tiekoetter.com"
+      "name": "inv.citw.lgbt",
+      "url": "https://inv.citw.lgbt"
     },
     {
-      "name": "invidious.f5.si",
-      "url": "https://invidious.f5.si"
-    },
-    {
-      "name": "invidious.sethforprivacy.com",
-      "url": "https://invidious.sethforprivacy.com"
-    },
-    {
-      "name": "invidious.osi.kr",
-      "url": "https://invidious.osi.kr"
-    },
-    {
-      "name": "invidious.projectsegfau.lt",
-      "url": "https://invidious.projectsegfau.lt"
-    },
-    {
-      "name": "invidious.privacy.dev",
-      "url": "https://invidious.privacy.dev"
-    },
-    {
-      "name": "inv.vern.cc",
-      "url": "https://inv.vern.cc"
-    },
-    {
-      "name": "invidious.weblibre.org",
-      "url": "https://invidious.weblibre.org"
-    },
-    {
-      "name": "invidious.snopyta.org",
-      "url": "https://invidious.snopyta.org"
-    },
-    {
-      "name": "invidious.kavin.rocks",
-      "url": "https://invidious.kavin.rocks"
-    },
-    {
-      "name": "invidious-admin.tk",
-      "url": "https://invidious-admin.tk"
+      "name": "inv.nadeko.net",
+      "url": "https://inv.nadeko.net"
     },
     {
       "name": "inv.riverside.rocks",
       "url": "https://inv.riverside.rocks"
     },
     {
-      "name": "invidious.nerdvpn.de",
-      "url": "https://invidious.nerdvpn.de"
-    },
-    {
       "name": "inv.thepixora.com",
       "url": "https://inv.thepixora.com"
     },
     {
-      "name": "yt.chocolatemoo53.com",
-      "url": "https://yt.chocolatemoo53.com"
+      "name": "inv.tux.pizza",
+      "url": "https://inv.tux.pizza"
     },
     {
-      "name": "inv.nadeko.net",
-      "url": "https://inv.nadeko.net"
+      "name": "inv.vern.cc",
+      "url": "https://inv.vern.cc"
+    },
+    {
+      "name": "inv.zzls.xyz",
+      "url": "https://inv.zzls.xyz"
     },
     {
       "name": "inv1.nadeko.net",
@@ -113,8 +77,84 @@
       "url": "https://inv-ygg.nadeko.net"
     },
     {
-      "name": "bocchilorenzo.github.io",
-      "url": "https://bocchilorenzo.github.io/invuedious/"
+      "name": "invidious-admin.tk",
+      "url": "https://invidious-admin.tk"
+    },
+    {
+      "name": "invidious.esmailelbob.xyz",
+      "url": "https://invidious.esmailelbob.xyz"
+    },
+    {
+      "name": "invidious.f5.si",
+      "url": "https://invidious.f5.si"
+    },
+    {
+      "name": "invidious.fdn.fr",
+      "url": "https://invidious.fdn.fr"
+    },
+    {
+      "name": "invidious.kavin.rocks",
+      "url": "https://invidious.kavin.rocks"
+    },
+    {
+      "name": "invidious.lunar.icu",
+      "url": "https://invidious.lunar.icu"
+    },
+    {
+      "name": "invidious.nerdvpn.de",
+      "url": "https://invidious.nerdvpn.de"
+    },
+    {
+      "name": "invidious.osi.kr",
+      "url": "https://invidious.osi.kr"
+    },
+    {
+      "name": "invidious.perennialte.ch",
+      "url": "https://invidious.perennialte.ch"
+    },
+    {
+      "name": "invidious.private.coffee",
+      "url": "https://invidious.private.coffee"
+    },
+    {
+      "name": "invidious.privacy.dev",
+      "url": "https://invidious.privacy.dev"
+    },
+    {
+      "name": "invidious.projectsegfau.lt",
+      "url": "https://invidious.projectsegfau.lt"
+    },
+    {
+      "name": "invidious.protokolla.fi",
+      "url": "https://invidious.protokolla.fi"
+    },
+    {
+      "name": "invidious.sethforprivacy.com",
+      "url": "https://invidious.sethforprivacy.com"
+    },
+    {
+      "name": "invidious.snopyta.org",
+      "url": "https://invidious.snopyta.org"
+    },
+    {
+      "name": "invidious.tiekoetter.com",
+      "url": "https://invidious.tiekoetter.com"
+    },
+    {
+      "name": "invidious.weblibre.org",
+      "url": "https://invidious.weblibre.org"
+    },
+    {
+      "name": "vid.puffyan.us",
+      "url": "https://vid.puffyan.us"
+    },
+    {
+      "name": "yt.chocolatemoo53.com",
+      "url": "https://yt.chocolatemoo53.com"
+    },
+    {
+      "name": "yewtu.be",
+      "url": "https://yewtu.be"
     }
   ]
 }

@@ -5,6 +5,10 @@
       "url": "https://invidious.f5.si"
     },
     {
+      "name": "inv.thepixora.com",
+      "url": "https://inv.thepixora.com"
+    },
+    {
       "name": "bocchilorenzo.github.io/invuedious",
       "url": "https://bocchilorenzo.github.io/invuedious/"
     },
@@ -23,10 +27,6 @@
     {
       "name": "inv.riverside.rocks",
       "url": "https://inv.riverside.rocks"
-    },
-    {
-      "name": "inv.thepixora.com",
-      "url": "https://inv.thepixora.com"
     },
     {
       "name": "inv.tux.pizza",

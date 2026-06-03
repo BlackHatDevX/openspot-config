@@ -1,14 +1,22 @@
 {
-  "latest_version": "3.1.4",
+  "latest_version": "3.1.5",
   "min_supported_version": "3.1.3",
   "force_update": false,
   "changelog": {
-      "3.1.4": [
-        "Tap on artist name to search that artist's songs",
-        "Rotating music art animation added",
-        "You can now save artist, playlist & album to library",
-        "Bug fixes"
-      ],
+    "3.1.5": [
+      "Import music directly from public Spotify playlist URLs",
+      "Added Spotify Trending support for 75+ countries",
+      "Fixed empty or incomplete playlists, albums and missing songs in some countries",
+      "Fixed downloads being interrupted in the background",
+      "Fixed offline mode issues",
+      "Minor bug fixes and performance improvements"
+    ],
+    "3.1.4": [
+      "Tap on artist name to search that artist's songs",
+      "Rotating music art animation added",
+      "You can now save artist, playlist & album to library",
+      "Bug fixes"
+    ],
     "3.1.3": [
       "Fixed albums, artists & playlists not loading",
       "Fixed fullscreen player layout issue on smaller devices"
